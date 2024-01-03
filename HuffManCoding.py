@@ -137,7 +137,7 @@ class HuffmanCoding:
 
 
 
-kamal=HuffmanCoding(r'C:\Users\kamal\Documents\Hell.txt')
+kamal=HuffmanCoding(r'Kamal.txt')
 result=kamal.compress()
 print(result)
 kamal.decompress(result)
